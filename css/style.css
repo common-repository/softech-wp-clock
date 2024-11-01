@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'Share Tech Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share Tech Mono'), local('ShareTechMono-Regular'), url(/fonts/ShareTechMono-Regular.ttf) format('ttf');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+.softech-wp-clock 
+{
+    font-family: 'Share Tech Mono', monospace;
+    /*position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);*/
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
+    background: #0f3854;
+    background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+    background-size: 100%;
+}
+.softech-wp-time 
+{
+    letter-spacing: 0.05em;
+    font-size: 80px;
+    padding: 5px 0;
+}
+.softech-wp-date 
+{
+    letter-spacing: 0.1em;
+    font-size: 24px;
+}
+.softech-wp-zone
+{
+    letter-spacing: 0.1em;
+    font-size: 12px;
+    /*padding: 20px 0 0;*/
+}
+.softech-overview {
+    min-width: 255px;
+    border: 1px solid #e5e5e5;
+    background: #fff;
+}
+.softech-overview-heading {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+    cursor: move;
+        border-bottom: 1px solid #eee;
+}
+.softech-overview-inner {
+    padding: 0 12px 12px;
+    line-height: 1.4em;
+    font-size: 13px;
+    margin: 11px 0;
+    position: relative;
+}
+.softech-overview-header {
+    display: table;
+    width: 100%;
+    -webkit-box-shadow: 0 5px 8px rgba(0,0,0,.05);
+    box-shadow: 0 5px 8px rgba(0,0,0,.05);
+    margin: 0 -12px 8px;
+    padding: 0 12px 12px;
+}
+.softech-overview-feed {
+    font-size: 14px;
+    font-weight: 500;
+}
+h3.softech-overview-heading {
+    font-weight: 700;
+    border-bottom: 1px solid #eee;
+    margin: 0 -12px;
+    padding: 6px 12px;
+}
+a.softech-overview-post-link {
+    padding-bottom: 5px;
+    text-decoration: none;
+}
+.softech-overview-footer {
+    margin: 0 -12px -12px;
+    padding: 12px;
+    border-top: 1px solid #eee;
+}
+.softech-overview-footer ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.softech-overview-footer li {
+    padding: 0 10px;
+    margin: 0;
+    border-left: 1px solid #ddd;
+}
+.softech-overview-footer ul li:first-child {
+    padding-left: 0;
+    border: none;
+}
+.softech-overview-footer a
+{
+  text-decoration: none;
+}
+.softech-overview-footer a span.dashicons {
+    vertical-align: middle;
+    font-size: 17px;
+}
+h2.softech-overview-title {
+    font-size: 14px;
+    margin: 0;
+    line-height: 1.4;
+}
+.softech-overview-logo,
+.softech-overview-versions {
+    display: table-cell;
+    vertical-align: middle;
+}
+.softech-overview-logo .dashicons{
+    color: #b7084e;
+    font-size: 30px;
+    width: 5px;
+}
+.softech-overview-versions {
+    padding: 0 10px;
+    font-size: .9em;
+    line-height: 1.5;
+}
+span.note {
+    margin: 0 10px;
+    color: darkgray;
+}
+@media (min-width: 768px)
+{
+    .softech-wp-clock p
+    {
+        margin: 0 !important;
+    }
+}

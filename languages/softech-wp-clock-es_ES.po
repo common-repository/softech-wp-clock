@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Softech Wp Clock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-01 08:56+0000\n"
+"PO-Revision-Date: 2018-11-01 09:01+0000\n"
+"Last-Translator: admin <vivekkumarsahu0@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: add-wp-clock.php:46
+msgid "Time Zone was successfully Saved"
+msgstr "Zona horaria se guardó con éxito"
+
+#: add-wp-clock.php:51
+msgid "There was an error while saving Time Zone"
+msgstr "Hubo un error al guardar la zona horaria"
+
+#: add-wp-clock.php:59
+msgid "Time Zone was successfully updated"
+msgstr "Zona horaria se actualizo con exito"
+
+#: add-wp-clock.php:64
+msgid "There was an error while updating Time Zone"
+msgstr "Se ha producido un error al actualizar la zona horaria."
+
+#: add-wp-clock.php:78
+msgid "Time Zone not found"
+msgstr "Zona horaria no encontrada"
+
+#: add-wp-clock.php:84
+msgid "Softech Wp Clock Data"
+msgstr "Cómo utilizar Softech Wp Clock"
+
+#: add-wp-clock.php:89 list-wp-clock.php:293
+msgid "Time Zone"
+msgstr "Zona horaria"
+
+#: add-wp-clock.php:90
+msgid "back to list"
+msgstr "volver a la lista"
+
+#: add-wp-clock.php:110
+msgid "Save"
+msgstr "Salvar"
+
+#: add-wp-clock.php:131 list-wp-clock.php:103
+msgid "Time Zone Name"
+msgstr "Nombre de la zona horaria"
+
+#: add-wp-clock.php:135
+msgid "Time Zone name"
+msgstr "Nombre de la zona horaria"
+
+#: add-wp-clock.php:140
+msgid "Your Time Zone"
+msgstr "Tu zona horaria"
+
+#: add-wp-clock.php:144
+msgid "Please, select Time zone"
+msgstr "Por favor, seleccione Zona horaria"
+
+#: add-wp-clock.php:153
+msgid "Font Color"
+msgstr "Color de fuente"
+
+#: add-wp-clock.php:162
+msgid "Padding"
+msgstr "Relleno"
+
+#: add-wp-clock.php:167 add-wp-clock.php:177 add-wp-clock.php:187
+#: add-wp-clock.php:197
+msgid "* Value in \"px\""
+msgstr "* Valor en \"px\""
+
+#: add-wp-clock.php:172
+msgid "Date Font Size"
+msgstr "Tamaño de fuente de fecha"
+
+#: add-wp-clock.php:182
+msgid "Time Font Size"
+msgstr "Tamaño de letra de tiempo"
+
+#: add-wp-clock.php:192
+msgid "Time Zone Font Size"
+msgstr "Tamaño de fuente de zona horaria"
+
+#: add-wp-clock.php:202
+msgid "Text Align"
+msgstr "Texto alineado"
+
+#: add-wp-clock.php:206
+msgid "Select Text Align"
+msgstr "Seleccionar alineación de texto"
+
+#: list-wp-clock.php:73
+msgid "Edit"
+msgstr "Editar"
+
+#: list-wp-clock.php:74
+msgid "Delete"
+msgstr "Borrar"
+
+#: list-wp-clock.php:104
+msgid "Shortcode"
+msgstr "Código corto"
+
+#: list-wp-clock.php:105
+msgid "Created Date"
+msgstr "Fecha de creación"
+
+#: list-wp-clock.php:215
+msgid "Time zone per page"
+msgstr "Zona horaria por página"
+
+#: list-wp-clock.php:245
+#, php-format
+msgid "Items deleted: %d"
+msgstr "Artículos eliminados: %d"
+
+#: list-wp-clock.php:254
+msgid "Softech Wp Clock Overview"
+msgstr "Descripción de Softech Wp Clock"
+
+#: list-wp-clock.php:261
+msgid "softech wp clock v1.0.0"
+msgstr "softech wp clock v1.0.0"
+
+#: list-wp-clock.php:266
+msgid "How to use Softech Wp Clock"
+msgstr "Cómo utilizar Softech Wp Clock"
+
+#: list-wp-clock.php:269
+msgid "How to create a new Time zone clock"
+msgstr "Cómo crear un nuevo reloj de zona horaria"
+
+#: list-wp-clock.php:270
+msgid "Softech wp clock -> Add New -> Fill all the fields then click on Save.​"
+msgstr ""
+"Softech wp clock -> Agregar nuevo -> Rellene todos los campos y luego haga "
+"clic en Guardar."
+
+#: list-wp-clock.php:273
+msgid "How to update Time zone clock"
+msgstr "Cómo actualizar el reloj de la zona horaria"
+
+#: list-wp-clock.php:274
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and then click "
+"on Edit -> Update the value fields then click on Update.​"
+msgstr ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and then click "
+"on Edit -> Fill all the updateble fields then click on Update.​"
+
+#: list-wp-clock.php:277
+msgid "How to insert your Time zone clock shortcode in page/post."
+msgstr ""
+"Cómo insertar el código corto del reloj de su zona horaria en la página / "
+"publicación."
+
+#: list-wp-clock.php:278
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and copy the "
+"shortcode -> Insert the shortcode in any page/post then save the page/post.​"
+msgstr ""
+"Softech wp clock -> Zona horaria -> Seleccione el nombre de su zona horaria "
+"y copie el shortcode -> Inserte el shortcode en cualquier página / "
+"publicación y luego guarde la página / publicación."
+
+#: list-wp-clock.php:294
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:58 plugin.php:59
+msgid "Softech Wp Clock"
+msgstr "Softech Wp Clock"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:68 plugin.php:69
+msgid "Time Zones"
+msgstr "Por favor, seleccione Zona horaria"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:76 plugin.php:77
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#. %s: PHP version
+#: softech-wp-clock.php:53
+#, php-format
+msgid ""
+"Softech Wp Clock requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+"Softech Wp Clock requiere la versión de PHP %s+, el complemento NO ESTÁ EN "
+"EJECUCIÓN"
+
+#. %s: WordPress version
+#: softech-wp-clock.php:65
+#, php-format
+msgid ""
+"Softech Wp Clock requires WordPress version %s+. Because you are using an "
+"earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+"Softech Wp Clock requiere la versión de WordPress %s+. Debido a que está "
+"utilizando una versión anterior, el complemento NO ESTÁ EN EJECUCIÓN"
+
+#. Description of the plugin
+msgid ""
+"Display a Time zone clock on your page/post set to your city's timezone. "
+"Choice of clocks, colors and sizes."
+msgstr ""
+"Muestre un reloj de zona horaria en su página / publicación establecida en "
+"la zona horaria de su ciudad. Elección de relojes, colores y tamaños."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr "https://softechure.com/"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr "Softechure"

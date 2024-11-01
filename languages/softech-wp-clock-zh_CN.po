@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Softech Wp Clock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-01 08:56+0000\n"
+"PO-Revision-Date: 2018-11-01 08:59+0000\n"
+"Last-Translator: admin <vivekkumarsahu0@gmail.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: add-wp-clock.php:46
+msgid "Time Zone was successfully Saved"
+msgstr "已成功保存时区"
+
+#: add-wp-clock.php:51
+msgid "There was an error while saving Time Zone"
+msgstr "保存时区时出错"
+
+#: add-wp-clock.php:59
+msgid "Time Zone was successfully updated"
+msgstr "已成功更新时区"
+
+#: add-wp-clock.php:64
+msgid "There was an error while updating Time Zone"
+msgstr "更新时区时出错"
+
+#: add-wp-clock.php:78
+msgid "Time Zone not found"
+msgstr "找不到时区"
+
+#: add-wp-clock.php:84
+msgid "Softech Wp Clock Data"
+msgstr "Softech Wp時鐘數據"
+
+#: add-wp-clock.php:89 list-wp-clock.php:293
+msgid "Time Zone"
+msgstr "时区"
+
+#: add-wp-clock.php:90
+msgid "back to list"
+msgstr "返回列表"
+
+#: add-wp-clock.php:110
+msgid "Save"
+msgstr "保存"
+
+#: add-wp-clock.php:131 list-wp-clock.php:103
+msgid "Time Zone Name"
+msgstr "时区名称"
+
+#: add-wp-clock.php:135
+msgid "Time Zone name"
+msgstr "時區名稱"
+
+#: add-wp-clock.php:140
+msgid "Your Time Zone"
+msgstr "你的時區"
+
+#: add-wp-clock.php:144
+msgid "Please, select Time zone"
+msgstr "請選擇時區"
+
+#: add-wp-clock.php:153
+msgid "Font Color"
+msgstr "字體顏色"
+
+#: add-wp-clock.php:162
+msgid "Padding"
+msgstr "填充"
+
+#: add-wp-clock.php:167 add-wp-clock.php:177 add-wp-clock.php:187
+#: add-wp-clock.php:197
+msgid "* Value in \"px\""
+msgstr "*“px”中的值"
+
+#: add-wp-clock.php:172
+msgid "Date Font Size"
+msgstr "日期字體大小"
+
+#: add-wp-clock.php:182
+msgid "Time Font Size"
+msgstr "時間字體大小"
+
+#: add-wp-clock.php:192
+msgid "Time Zone Font Size"
+msgstr "時區字體大小"
+
+#: add-wp-clock.php:202
+msgid "Text Align"
+msgstr "文字對齊"
+
+#: add-wp-clock.php:206
+msgid "Select Text Align"
+msgstr "選擇文本對齊"
+
+#: list-wp-clock.php:73
+msgid "Edit"
+msgstr "編輯"
+
+#: list-wp-clock.php:74
+msgid "Delete"
+msgstr "刪除"
+
+#: list-wp-clock.php:104
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: list-wp-clock.php:105
+msgid "Created Date"
+msgstr "創建日期"
+
+#: list-wp-clock.php:215
+msgid "Time zone per page"
+msgstr "每頁時區"
+
+#: list-wp-clock.php:245
+#, php-format
+msgid "Items deleted: %d"
+msgstr "刪除的項目：%d"
+
+#: list-wp-clock.php:254
+msgid "Softech Wp Clock Overview"
+msgstr "Softech Wp 時鐘概述"
+
+#: list-wp-clock.php:261
+msgid "softech wp clock v1.0.0"
+msgstr "softech wp clock v1.0.0"
+
+#: list-wp-clock.php:266
+msgid "How to use Softech Wp Clock"
+msgstr "如何使用 Softech Wp Clock"
+
+#: list-wp-clock.php:269
+msgid "How to create a new Time zone clock"
+msgstr "如何創建新的時區時鐘"
+
+#: list-wp-clock.php:270
+msgid "Softech wp clock -> Add New -> Fill all the fields then click on Save.​"
+msgstr "Softech wp clock  - > Add New  - >填寫所有字段，然後單擊 Save"
+
+#: list-wp-clock.php:273
+msgid "How to update Time zone clock"
+msgstr "如何更新時區時鐘"
+
+#: list-wp-clock.php:274
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and then click "
+"on Edit -> Update the value fields then click on Update.​"
+msgstr "Softech wp clock  - >時區 - >選擇您的時區名稱，然後單擊編輯 - >填寫所有可更新字段，然後單擊更新。"
+
+#: list-wp-clock.php:277
+msgid "How to insert your Time zone clock shortcode in page/post."
+msgstr "如何在頁面/帖子中插入您的時區時鐘短代碼"
+
+#: list-wp-clock.php:278
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and copy the "
+"shortcode -> Insert the shortcode in any page/post then save the page/post.​"
+msgstr ""
+"Softech wp clock  - >時區 - >選擇您的時區名稱並複制短代碼 - >在任何頁面/帖子 中插入短代碼，然後保存頁面/帖子。"
+
+#: list-wp-clock.php:294
+msgid "Add new"
+msgstr "添新"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:58 plugin.php:59
+msgid "Softech Wp Clock"
+msgstr "Softech Wp Clock"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:68 plugin.php:69
+msgid "Time Zones"
+msgstr "時區"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:76 plugin.php:77
+msgid "Add New"
+msgstr "添新"
+
+#. %s: PHP version
+#: softech-wp-clock.php:53
+#, php-format
+msgid ""
+"Softech Wp Clock requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Softech Wp Clock 需要PHP版本 ％s+，插件目前尚未運行。\""
+
+#. %s: WordPress version
+#: softech-wp-clock.php:65
+#, php-format
+msgid ""
+"Softech Wp Clock requires WordPress version %s+. Because you are using an "
+"earlier version, the plugin is currently NOT RUNNING."
+msgstr "Softech Wp Clock 需要WordPress版本 ％s+。因為您使用的是早期版本，所以該插件 目 前尚未運行"
+
+#. Description of the plugin
+msgid ""
+"Display a Time zone clock on your page/post set to your city's timezone. "
+"Choice of clocks, colors and sizes."
+msgstr "在您的頁面上設置時區時鐘/設置為您所在城市的時區。時鐘，顏色和尺寸的選擇"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr "https://softechure.com/"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr "Softechure"

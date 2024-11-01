@@ -1,0 +1,217 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Softech Wp Clock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-01 08:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: add-wp-clock.php:46
+msgid "Time Zone was successfully Saved"
+msgstr ""
+
+#: add-wp-clock.php:51
+msgid "There was an error while saving Time Zone"
+msgstr ""
+
+#: add-wp-clock.php:59
+msgid "Time Zone was successfully updated"
+msgstr ""
+
+#: add-wp-clock.php:64
+msgid "There was an error while updating Time Zone"
+msgstr ""
+
+#: add-wp-clock.php:78
+msgid "Time Zone not found"
+msgstr ""
+
+#: add-wp-clock.php:84
+msgid "Softech Wp Clock Data"
+msgstr ""
+
+#: add-wp-clock.php:89 list-wp-clock.php:293
+msgid "Time Zone"
+msgstr ""
+
+#: add-wp-clock.php:90
+msgid "back to list"
+msgstr ""
+
+#: add-wp-clock.php:110
+msgid "Save"
+msgstr ""
+
+#: add-wp-clock.php:131 list-wp-clock.php:103
+msgid "Time Zone Name"
+msgstr ""
+
+#: add-wp-clock.php:135
+msgid "Time Zone name"
+msgstr ""
+
+#: add-wp-clock.php:140
+msgid "Your Time Zone"
+msgstr ""
+
+#: add-wp-clock.php:144
+msgid "Please, select Time zone"
+msgstr ""
+
+#: add-wp-clock.php:153
+msgid "Font Color"
+msgstr ""
+
+#: add-wp-clock.php:162
+msgid "Padding"
+msgstr ""
+
+#: add-wp-clock.php:167 add-wp-clock.php:177 add-wp-clock.php:187
+#: add-wp-clock.php:197
+msgid "* Value in \"px\""
+msgstr ""
+
+#: add-wp-clock.php:172
+msgid "Date Font Size"
+msgstr ""
+
+#: add-wp-clock.php:182
+msgid "Time Font Size"
+msgstr ""
+
+#: add-wp-clock.php:192
+msgid "Time Zone Font Size"
+msgstr ""
+
+#: add-wp-clock.php:202
+msgid "Text Align"
+msgstr ""
+
+#: add-wp-clock.php:206
+msgid "Select Text Align"
+msgstr ""
+
+#: list-wp-clock.php:73
+msgid "Edit"
+msgstr ""
+
+#: list-wp-clock.php:74
+msgid "Delete"
+msgstr ""
+
+#: list-wp-clock.php:104
+msgid "Shortcode"
+msgstr ""
+
+#: list-wp-clock.php:105
+msgid "Created Date"
+msgstr ""
+
+#: list-wp-clock.php:215
+msgid "Time zone per page"
+msgstr ""
+
+#: list-wp-clock.php:245
+#, php-format
+msgid "Items deleted: %d"
+msgstr ""
+
+#: list-wp-clock.php:254
+msgid "Softech Wp Clock Overview"
+msgstr ""
+
+#: list-wp-clock.php:261
+msgid "softech wp clock v1.0.0"
+msgstr ""
+
+#: list-wp-clock.php:266
+msgid "How to use Softech Wp Clock"
+msgstr ""
+
+#: list-wp-clock.php:269
+msgid "How to create a new Time zone clock"
+msgstr ""
+
+#: list-wp-clock.php:270
+msgid "Softech wp clock -> Add New -> Fill all the fields then click on Save.​"
+msgstr ""
+
+#: list-wp-clock.php:273
+msgid "How to update Time zone clock"
+msgstr ""
+
+#: list-wp-clock.php:274
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and then click "
+"on Edit -> Update the value fields then click on Update.​"
+msgstr ""
+
+#: list-wp-clock.php:277
+msgid "How to insert your Time zone clock shortcode in page/post."
+msgstr ""
+
+#: list-wp-clock.php:278
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and copy the "
+"shortcode -> Insert the shortcode in any page/post then save the page/post.​"
+msgstr ""
+
+#: list-wp-clock.php:294
+msgid "Add new"
+msgstr ""
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:58 plugin.php:59
+msgid "Softech Wp Clock"
+msgstr ""
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:68 plugin.php:69
+msgid "Time Zones"
+msgstr ""
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:76 plugin.php:77
+msgid "Add New"
+msgstr ""
+
+#. %s: PHP version
+#: softech-wp-clock.php:53
+#, php-format
+msgid ""
+"Softech Wp Clock requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+
+#. %s: WordPress version
+#: softech-wp-clock.php:65
+#, php-format
+msgid ""
+"Softech Wp Clock requires WordPress version %s+. Because you are using an "
+"earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display a Time zone clock on your page/post set to your city's timezone. "
+"Choice of clocks, colors and sizes."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr ""

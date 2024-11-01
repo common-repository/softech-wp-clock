@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Softech Wp Clock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-01 08:56+0000\n"
+"PO-Revision-Date: 2018-11-01 09:00+0000\n"
+"Last-Translator: admin <vivekkumarsahu0@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: add-wp-clock.php:46
+msgid "Time Zone was successfully Saved"
+msgstr "Le fuseau horaire a été enregistré avec succès"
+
+#: add-wp-clock.php:51
+msgid "There was an error while saving Time Zone"
+msgstr "Une erreur s'est produite lors de l'enregistrement du fuseau horaire"
+
+#: add-wp-clock.php:59
+msgid "Time Zone was successfully updated"
+msgstr "Le fuseau horaire a été mis à jour avec succès"
+
+#: add-wp-clock.php:64
+msgid "There was an error while updating Time Zone"
+msgstr "Une erreur s'est produite lors de la mise à jour du fuseau horaire."
+
+#: add-wp-clock.php:78
+msgid "Time Zone not found"
+msgstr "Fuseau horaire non trouvé"
+
+#: add-wp-clock.php:84
+msgid "Softech Wp Clock Data"
+msgstr "Comment utiliser Softech Wp Clock"
+
+#: add-wp-clock.php:89 list-wp-clock.php:293
+msgid "Time Zone"
+msgstr "Fuseau horaire"
+
+#: add-wp-clock.php:90
+msgid "back to list"
+msgstr "retour à la liste"
+
+#: add-wp-clock.php:110
+msgid "Save"
+msgstr "sauvegarder"
+
+#: add-wp-clock.php:131 list-wp-clock.php:103
+msgid "Time Zone Name"
+msgstr "Nom du fuseau horaire"
+
+#: add-wp-clock.php:135
+msgid "Time Zone name"
+msgstr "Nom du fuseau horaire"
+
+#: add-wp-clock.php:140
+msgid "Your Time Zone"
+msgstr "Votre fuseau horaire"
+
+#: add-wp-clock.php:144
+msgid "Please, select Time zone"
+msgstr "S'il vous plaît, sélectionnez le fuseau horaire"
+
+#: add-wp-clock.php:153
+msgid "Font Color"
+msgstr "Couleur de la police"
+
+#: add-wp-clock.php:162
+msgid "Padding"
+msgstr "Rembourrage"
+
+#: add-wp-clock.php:167 add-wp-clock.php:177 add-wp-clock.php:187
+#: add-wp-clock.php:197
+msgid "* Value in \"px\""
+msgstr "* Valeur en \"px\""
+
+#: add-wp-clock.php:172
+msgid "Date Font Size"
+msgstr "Date Taille de la police"
+
+#: add-wp-clock.php:182
+msgid "Time Font Size"
+msgstr "Durée de la police"
+
+#: add-wp-clock.php:192
+msgid "Time Zone Font Size"
+msgstr "Taille de la police de fuseau horaire"
+
+#: add-wp-clock.php:202
+msgid "Text Align"
+msgstr "Sélectionner le texte aligné"
+
+#: add-wp-clock.php:206
+msgid "Select Text Align"
+msgstr "Sélectionner le texte aligné"
+
+#: list-wp-clock.php:73
+msgid "Edit"
+msgstr "modifier"
+
+#: list-wp-clock.php:74
+msgid "Delete"
+msgstr "Effacer"
+
+#: list-wp-clock.php:104
+msgid "Shortcode"
+msgstr "Petit code"
+
+#: list-wp-clock.php:105
+msgid "Created Date"
+msgstr "Date de création"
+
+#: list-wp-clock.php:215
+msgid "Time zone per page"
+msgstr "Fuseau horaire par page"
+
+#: list-wp-clock.php:245
+#, php-format
+msgid "Items deleted: %d"
+msgstr "Éléments supprimés: %d"
+
+#: list-wp-clock.php:254
+msgid "Softech Wp Clock Overview"
+msgstr "Softech Wp Clock Vue d'ensemble"
+
+#: list-wp-clock.php:261
+msgid "softech wp clock v1.0.0"
+msgstr "softech wp clock v1.0.0"
+
+#: list-wp-clock.php:266
+msgid "How to use Softech Wp Clock"
+msgstr "Comment utiliser Softech Wp Clock"
+
+#: list-wp-clock.php:269
+msgid "How to create a new Time zone clock"
+msgstr "Comment créer une nouvelle horloge de fuseau horaire"
+
+#: list-wp-clock.php:270
+msgid "Softech wp clock -> Add New -> Fill all the fields then click on Save.​"
+msgstr ""
+"Softech wp clock -> Ajouter un nouveau -> Remplissez tous les champs puis "
+"cliquez sur Enregistrer."
+
+#: list-wp-clock.php:273
+msgid "How to update Time zone clock"
+msgstr "Comment mettre à jour l'horloge de fuseau horaire"
+
+#: list-wp-clock.php:274
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and then click "
+"on Edit -> Update the value fields then click on Update.​"
+msgstr ""
+"Softech wp clock -> Fuseau horaire -> Sélectionnez le nom de votre fuseau "
+"horaire puis cliquez sur Modifier -> Remplissez tous les champs updateble "
+"puis cliquez sur Mettre à jour."
+
+#: list-wp-clock.php:277
+msgid "How to insert your Time zone clock shortcode in page/post."
+msgstr ""
+"Comment insérer votre shortcode d’horloge de fuseau horaire dans page / post."
+
+#: list-wp-clock.php:278
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and copy the "
+"shortcode -> Insert the shortcode in any page/post then save the page/post.​"
+msgstr ""
+"Softech wp clock -> Fuseau horaire -> Sélectionnez le nom de votre fuseau "
+"horaire et copiez le numéro abrégé -> Insérez le numéro abrégé dans une page "
+"/ une publication, puis enregistrez la page / la publication."
+
+#: list-wp-clock.php:294
+msgid "Add new"
+msgstr "Ajouter nouveau"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:58 plugin.php:59
+msgid "Softech Wp Clock"
+msgstr "Softech Wp Clock"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:68 plugin.php:69
+msgid "Time Zones"
+msgstr "Fuseaux horaires"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:76 plugin.php:77
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#. %s: PHP version
+#: softech-wp-clock.php:53
+#, php-format
+msgid ""
+"Softech Wp Clock requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Softech Wp Clock nécessite la version PHP %s+, le plugin n’exécute pas"
+
+#. %s: WordPress version
+#: softech-wp-clock.php:65
+#, php-format
+msgid ""
+"Softech Wp Clock requires WordPress version %s+. Because you are using an "
+"earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+"Softech Wp Clock nécessite la version WordPress %s+. Comme vous utilisez une "
+"version antérieure, le plug-in N'EST PAS EN COURS D'EXÉCUTION"
+
+#. Description of the plugin
+msgid ""
+"Display a Time zone clock on your page/post set to your city's timezone. "
+"Choice of clocks, colors and sizes."
+msgstr ""
+"Afficher une horloge de fuseau horaire sur votre page / poste définie sur le "
+"fuseau horaire de votre ville. Choix d'horloges, de couleurs et de tailles."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr "https://softechure.com/"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr "Softechure"

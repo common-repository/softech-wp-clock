@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Softech Wp Clock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-01 08:56+0000\n"
+"PO-Revision-Date: 2018-11-01 08:57+0000\n"
+"Last-Translator: admin <vivekkumarsahu0@gmail.com>\n"
+"Language-Team: हिन्दी\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: add-wp-clock.php:46
+msgid "Time Zone was successfully Saved"
+msgstr "समय ज़ोन सफलतापूर्वक सहेजा गया"
+
+#: add-wp-clock.php:51
+msgid "There was an error while saving Time Zone"
+msgstr "समय ज़ोन सहेजने के दौरान कोई त्रुटि आई"
+
+#: add-wp-clock.php:59
+msgid "Time Zone was successfully updated"
+msgstr "समय ज़ोन सफलतापूर्वक अद्यतन किया गया"
+
+#: add-wp-clock.php:64
+msgid "There was an error while updating Time Zone"
+msgstr "समय ज़ोन को अद्यतन करने के दौरान कोई त्रुटि आई"
+
+#: add-wp-clock.php:78
+msgid "Time Zone not found"
+msgstr "समय क्षेत्र नहीं मिला"
+
+#: add-wp-clock.php:84
+msgid "Softech Wp Clock Data"
+msgstr "Softech Wp Clock Data"
+
+#: add-wp-clock.php:89 list-wp-clock.php:293
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+#: add-wp-clock.php:90
+msgid "back to list"
+msgstr "सूची पर वापस जाएं"
+
+#: add-wp-clock.php:110
+msgid "Save"
+msgstr "सुरछित करें"
+
+#: add-wp-clock.php:131 list-wp-clock.php:103
+msgid "Time Zone Name"
+msgstr "समय ज़ोन नाम"
+
+#: add-wp-clock.php:135
+msgid "Time Zone name"
+msgstr "समय ज़ोन नाम"
+
+#: add-wp-clock.php:140
+msgid "Your Time Zone"
+msgstr "आपका समय क्षेत्र"
+
+#: add-wp-clock.php:144
+msgid "Please, select Time zone"
+msgstr "कृपया, समय ज़ोन का चयन करें"
+
+#: add-wp-clock.php:153
+msgid "Font Color"
+msgstr "फ़ॉंट रंग"
+
+#: add-wp-clock.php:162
+msgid "Padding"
+msgstr "Padding"
+
+#: add-wp-clock.php:167 add-wp-clock.php:177 add-wp-clock.php:187
+#: add-wp-clock.php:197
+msgid "* Value in \"px\""
+msgstr ""
+
+#: add-wp-clock.php:172
+msgid "Date Font Size"
+msgstr "दिनांक फ़ॉंट आकार"
+
+#: add-wp-clock.php:182
+msgid "Time Font Size"
+msgstr "समय फ़ॉंट आकार"
+
+#: add-wp-clock.php:192
+msgid "Time Zone Font Size"
+msgstr "समय क्षेत्र फ़ॉन्ट आकार"
+
+#: add-wp-clock.php:202
+msgid "Text Align"
+msgstr "पाठ संरेखित"
+
+#: add-wp-clock.php:206
+msgid "Select Text Align"
+msgstr "टेक्स्ट संरेखण का चयन करें"
+
+#: list-wp-clock.php:73
+msgid "Edit"
+msgstr "संपर्क फ़ॉर्म संपादित करें"
+
+#: list-wp-clock.php:74
+msgid "Delete"
+msgstr "हटाएँ"
+
+#: list-wp-clock.php:104
+msgid "Shortcode"
+msgstr "छोटे संकेत"
+
+#: list-wp-clock.php:105
+msgid "Created Date"
+msgstr "रचना तिथि"
+
+#: list-wp-clock.php:215
+msgid "Time zone per page"
+msgstr "प्रति पृष्ठ समय क्षेत्र"
+
+#: list-wp-clock.php:245
+#, php-format
+msgid "Items deleted: %d"
+msgstr "आइटम हटा दिए गए: %d"
+
+#: list-wp-clock.php:254
+msgid "Softech Wp Clock Overview"
+msgstr "Softech Wp Clock अवलोकन"
+
+#: list-wp-clock.php:261
+msgid "softech wp clock v1.0.0"
+msgstr "softech wp clock v1.0.0"
+
+#: list-wp-clock.php:266
+msgid "How to use Softech Wp Clock"
+msgstr "Softech Wp Clock घड़ी का उपयोग कैसे करें"
+
+#: list-wp-clock.php:269
+msgid "How to create a new Time zone clock"
+msgstr "नया टाइम ज़ोन घड़ी कैसे बनाएं"
+
+#: list-wp-clock.php:270
+msgid "Softech wp clock -> Add New -> Fill all the fields then click on Save.​"
+msgstr ""
+" Softech wp clock -> नया जोड़ें -> सभी फ़ील्ड भरें और फिर सहेजें पर क्लिक "
+"करें।"
+
+#: list-wp-clock.php:273
+msgid "How to update Time zone clock"
+msgstr "समय क्षेत्र घड़ी को कैसे अपडेट करें"
+
+#: list-wp-clock.php:274
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and then click "
+"on Edit -> Update the value fields then click on Update.​"
+msgstr ""
+"Softech wp clock -> समय क्षेत्र -> अपना समय क्षेत्र का नाम चुनें और फिर "
+"संपादित करें पर क्लिक करें -> सभी अद्यतन फ़ील्ड भरें और फिर अद्यतन पर क्लिक "
+"करें।"
+
+#: list-wp-clock.php:277
+msgid "How to insert your Time zone clock shortcode in page/post."
+msgstr "पेज / पोस्ट में अपना टाइम ज़ोन घड़ी शोर्ट कैसे डालें।"
+
+#: list-wp-clock.php:278
+msgid ""
+"Softech wp clock -> Time Zone -> Select Your Time Zone name and copy the "
+"shortcode -> Insert the shortcode in any page/post then save the page/post.​"
+msgstr ""
+"Softech wp clock ->  समय क्षेत्र -> अपना समय क्षेत्र का नाम चुनें और शोर्ट "
+"कॉपी करें -> किसी भी पेज / पोस्ट में शोर्ट डालें और फिर पृष्ठ / पोस्ट को "
+"सहेजें।"
+
+#: list-wp-clock.php:294
+msgid "Add new"
+msgstr "नया जोड़ें"
+
+#. Page Title
+#. Name of the plugin
+#: plugin.php:58 plugin.php:59
+msgid "Softech Wp Clock"
+msgstr "Softech Wp Clock"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:68 plugin.php:69
+msgid "Time Zones"
+msgstr "समय ज़ोन"
+
+#. Parent Menu Slug
+#. Page Title
+#: plugin.php:76 plugin.php:77
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#. %s: PHP version
+#: softech-wp-clock.php:53
+#, php-format
+msgid ""
+"Softech Wp Clock requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+"Softech Wp Clock को PHP संस्करण % s+ की आवश्यकता है, प्लगइन वर्तमान में नहीं "
+"चल रहा है"
+
+#. %s: WordPress version
+#: softech-wp-clock.php:65
+#, php-format
+msgid ""
+"Softech Wp Clock requires WordPress version %s+. Because you are using an "
+"earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+"Softech Wp Clock के लिए वर्डप्रेस संस्करण %s+ की आवश्यकता है। चूंकि आप पहले "
+"के संस्करण का उपयोग कर रहे हैं, प्लगइन वर्तमान में नहीं चल रहा है"
+
+#. Description of the plugin
+msgid ""
+"Display a Time zone clock on your page/post set to your city's timezone. "
+"Choice of clocks, colors and sizes."
+msgstr ""
+"अपने शहर के समय क्षेत्र के लिए अपने पृष्ठ पर सेट/ घड़ियों, रंग और आकार के "
+"विकल्प ।"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://softechure.com/"
+msgstr "https://softechure.com/"
+
+#. Author of the plugin
+msgid "Softechure"
+msgstr "Softechure"
